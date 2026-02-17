@@ -5,5 +5,6 @@
   <project path="device/oneplus/infiniti-kernel" name="OnePlus-15-Development/android_device_oneplus_infiniti-kernel" revision="OxygenOS16" />
   <project path="device/oneplus/sm8850-common" name="OnePlus-15-Development/android_device_oneplus_sm8850-common" />
   <project path="hardware/oplus" name="OnePlus-15-Development/android_hardware_oplus" />
+  <project path="kernel/oneplus/sm8850" name="kernel/common" revision="android16-6.12-lts" clone-depth="1" remote="aosp" />
 
 </manifest>
