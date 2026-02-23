@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/oneplus/sm8850-common" name="OnePlus-SM8850-Development/android_device_oneplus_sm8850-common" />
+  <project path="hardware/oplus" name="OnePlus-SM8850-Development/android_hardware_oplus" />
+  <project path="kernel/oneplus/sm8850" name="kernel/common" revision="android16-6.12-lts" clone-depth="1" remote="aosp" />
+  <project path="vendor/oneplus/sm8850-common" name="OnePlus-SM8850-Development/proprietary_vendor_oneplus_sm8850-common" />
+
+</manifest>

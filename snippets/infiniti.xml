@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/oneplus/infiniti" name="OnePlus-SM8850-Development/android_device_oneplus_infiniti" />
+  <project path="device/oneplus/infiniti-kernel" name="OnePlus-SM8850-Development/android_device_oneplus_infiniti-kernel" />
+  <project path="vendor/oneplus/infiniti" name="OnePlus-SM8850-Development/proprietary_vendor_oneplus_infiniti" />
+
+</manifest>
